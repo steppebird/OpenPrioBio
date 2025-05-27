@@ -26,22 +26,9 @@ Runs multi-year MaxEnt models for 10 forest bird species, at different spatial r
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
-Contributors names / contact info / GitHub Acc
-
-
-## Known Issues
-
-* list known issues or limitations
-
+Pedro J. Leitão / pedro.leitao@lup-umwelt.de / GitHub steppebird
 
 ## License
 
