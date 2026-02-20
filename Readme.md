@@ -10,8 +10,7 @@ Runs multi-year MaxEnt models for 10 forest bird species, at different spatial r
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* All dependencies are included in the code itself, including a routine to install non-installed packages.
 
 ## Authors
 
@@ -19,4 +18,4 @@ Pedro J. Leitão / pedro.leitao@lup-umwelt.de / GitHub steppebird
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GPL3 License - see the LICENSE.md file for details
