@@ -17,7 +17,7 @@ Runs multi-year MaxEnt models for 10 forest bird species, at different spatial r
   - 04c response value extraction (for categorical variables);
   - 04d model statistics.
 
-This workflow was adapted from: Wiedenroth, L. (2023). Wiedenroth_BirdWatch-SDM_2023 [Software]. GitHub. https://github.com/UP-macroecology/Wiedenroth_BirdWatch-SDM_2023.
+This workflow was adapted and extended from: Wiedenroth, L. (2023). Wiedenroth_BirdWatch-SDM_2023 [Software]. GitHub. https://github.com/UP-macroecology/Wiedenroth_BirdWatch-SDM_2023.
 
 ## Getting Started
 
