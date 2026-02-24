@@ -1,6 +1,6 @@
 # Project Title
 
-SDM Workflow for the OpenPrioBio project.
+SDM Workflow, code and results for the OpenPrioBio project.
 
 ## Description
 
